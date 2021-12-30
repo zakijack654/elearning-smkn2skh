@@ -8,6 +8,7 @@
 
 Admin: 
 admin@mail.com
+Password:
 admin
 
 
